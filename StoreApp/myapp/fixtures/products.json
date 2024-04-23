@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+            "name": "dog",
+            "price": "10.99",
+            "description": "woof"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+            "name": "cat",
+            "price": "19.99",
+            "description": "meow :3"
+        }
+    },
+    {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+            "name": "bird",
+            "price": "29.99",
+            "description": "tweet"
+        }
+    }
+]
